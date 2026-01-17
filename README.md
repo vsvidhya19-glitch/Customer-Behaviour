@@ -218,10 +218,6 @@ Optional: Docker setup (if you want a fully containerized environment)
 
 ## Contact & Credits
 
-- Maintainer: [Your Name]
-- Email: [your email]
-- Contributions welcome: please submit a pull request with a clear description of changes
-
----
-
-If you’d like, I can tailor the README further by filling in concrete details from your dataset, the exact SQL dialect you’re using, and the precise outputs of your analysis. Share a few specifics (dataset name, key metrics, and any naming conventions), and I’ll customize the document accordingly.
+- Maintainer: [Vidhya S]
+- Email: [vsvidhya19@gmail.com]
+- Contributions welcome
