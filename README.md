@@ -1,10 +1,6 @@
 # Customer-Behaviour
 Data analytics Project showcasing custumer behaviour analysis using Python SQL Power BI
-
-Here's a clean, recruiter-friendly README template tailored to your data analytics project. It covers Overview, Dataset, Tools, Steps, Dashboards, Results, and How to Run. You can customize specifics (dataset name, file paths, SQL details, etc.) as needed.
-
 ---
-
 # Data Analytics Project
 
 A practical data analytics project showcasing end-to-end workflow: loading data in Python, exploratory data analysis (EDA), data cleaning, SQL querying, Power BI dashboarding, reporting, and presenting slides with Gamma.
@@ -19,7 +15,6 @@ This project demonstrates a robust data analytics workflow from data ingestion t
 - Querying data using SQL/MySQL/SQL Server
 - Building an interactive Power BI dashboard
 - Generating a formal report and a presentation (PowerPoint) using Gamma
-- Clear, recruiter-friendly documentation and reproducible steps
 
 ## Dataset
 
